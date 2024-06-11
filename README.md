@@ -1,16 +1,16 @@
-# vr_mode
+# Virtual Reality
 
-A new Flutter project.
+Welcome to the repository for the Virtual Reality one-page website. This project aims to provide an immersive, informative, and visually engaging introduction to the world of virtual reality (VR).
 
-## Getting Started
+![My Page](https://github.com/aivision369/VRWeb/blob/master/Developed_Web.JPG)
 
-This project is a starting point for a Flutter application.
+## Contributing
+Contributions are welcome! If you have suggestions for improvements or encounter any issues, feel free to open an issue or submit a pull request.
 
-A few resources to get you started if this is your first Flutter project:
+## License
+This project is licensed under the [MIT License](https://github.com/aivision369/VRWeb/blob/master/LICENSE). See the LICENSE file for details.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Contact
+For any questions or feedback, please reach out via email at [limbadiya.sk@gmail.com].
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Thank you for visiting the Virtual Reality one screen web page. We hope you find the project insightful and engaging!
